@@ -1,0 +1,9 @@
+name: Duels
+version: ${project.version}
+main: me.lightlord323.duels.Duels
+api-version: 1.16
+authors: [ lightlord323 ]
+description: A simple duels plugin
+commands:
+  duel:
+    description: Issues a challenge to the specified player.

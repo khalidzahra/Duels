@@ -1,0 +1,10 @@
+mysql:
+  enable: false
+  host: "host"
+  port: 3306
+  database: "database"
+  username: "root"
+  password: ""
+kit:
+  armor: [DIAMOND_HELMET, DIAMOND_CHESTPLATE, DIAMOND_LEGGINGS, DIAMOND_BOOTS]
+  inventory: [DIAMOND_SWORD]
